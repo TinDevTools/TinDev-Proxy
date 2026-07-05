@@ -17,3 +17,6 @@ Tool tự đồng crawl và check proxy đa luồng, hỗ trợ nhiều nguồn 
 • Các thư viện: 
 ```bash
 pip install pywebview customtkinter aiohttp requests ujson PySocks
+```
+## Video Tutorial
+
