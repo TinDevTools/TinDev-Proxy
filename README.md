@@ -30,12 +30,12 @@ pip install pywebview customtkinter aiohttp requests ujson PySocks
     - Không đảm bảo độ ổn định lâu dài.<br>
 • Nếu cần proxy xịn, ổn định hơn → nên dùng dịch vụ proxy trả phí.
 
-##Author##
-• ***TinDevTools***
-• [Telegram](https://t.me/tindevtools)
-• [Zalo](https://zalo.me/0362319474)
-• [TikTok](https://www.tiktok.com/@khanhloc__10)
-• [Facebook](https://www.facebook.com/TinDevTools)
+## Author
+• **TinDevTools**<br>
+• [Telegram](https://t.me/tindevtools)<br>
+• [Zalo](https://zalo.me/0362319474)<br>
+• [TikTok](https://www.tiktok.com/@khanhloc__10)<br>
+• [Facebook](https://www.facebook.com/TinDevTools)<br>
 • [Youtube](https://www.youtube.com/@Tin-devtools)
 
 ## Video Tutorial
