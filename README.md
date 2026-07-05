@@ -1,3 +1,7 @@
+
+
+
+
 # TINDEV x PROXY SCRAPER
 
 Tool tự đồng crawl và check proxy đa luồng, hỗ trợ nhiều nguồn và giao thức `HTTP` • `HTTPS` • `SOCKS4` • `SOCKS5`. Viết bằng Python, sử dụng module `aiohttp` để cho tốc độ cao và giao diện đẹp mắt với module `tkinter` + `webview`.
@@ -18,5 +22,28 @@ Tool tự đồng crawl và check proxy đa luồng, hỗ trợ nhiều nguồn 
 ```bash
 pip install pywebview customtkinter aiohttp requests ujson PySocks
 ```
-## Video Tutorial
 
+## Lưu Ý
+• Các proxy sau khi tải là proxy đã được check sống tại thời điểm check.<br>
+• Tuy nhiên , vì đây là proxy công khai (public/free) nên:<br>
+    - Tỉ lệ die sau vài phút hoặc vài request là chuyện bình thường.<br>
+    - Không đảm bảo độ ổn định lâu dài.<br>
+• Nếu cần proxy xịn, ổn định hơn → nên dùng dịch vụ proxy trả phí.
+
+##Author##
+• ***TinDevTools***
+• [Telegram](https://t.me/tindevtools)
+• [Zalo](https://zalo.me/0362319474)
+• [TikTok](https://www.tiktok.com/@khanhloc__10)
+• [Facebook](https://www.facebook.com/TinDevTools)
+• [Youtube](https://www.youtube.com/@Tin-devtools)
+
+## Video Tutorial
+Link:
+```bash
+https://www.image2url.com/r2/default/videos/1783232513277-78688aa6-5355-4adb-b518-02dbd527f353.mp4
+```
+
+##License##
+
+MIT License
