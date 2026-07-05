@@ -11,3 +11,9 @@ Tool tự đồng crawl và check proxy đa luồng, hỗ trợ nhiều nguồn 
 • **Lưu kết quả** có thể tuỳ chỉnh giao thức lưu sau khi `Check Proxy`.<br>
 • **Hỗ trợ cài module** tool tự động cài module cần thiết.
 
+## Requirements
+
+• Python 3.12+<br>
+• Các thư viện: 
+```bash
+pip install pywebview customtkinter aiohttp requests ujson PySocks
